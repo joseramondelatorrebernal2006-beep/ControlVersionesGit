@@ -1,4 +1,4 @@
-# 3. Lenguajes de marcas: Markdown
+# 3. Lenguajes de marca: Markdown
 
 ## ¿Qué es Markdown?
 Markdown es un lenguaje de marcado ligero que facilita la aplicación de formato a un texto plano mediante caracteres especiales[cite: 8].
